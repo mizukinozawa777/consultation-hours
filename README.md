@@ -34,6 +34,9 @@ A. CSSでスタイル調整が可能です。将来的にテンプレート機�
 
 ## 📥 ダウンロード
 
+[![WordPress Plugin](https://img.shields.io/wordpress/plugin/v/consultation-hours?label=Download%20from%20WordPress)](https://ja.wordpress.org/plugins/consultation-hours/)
+
+
 WordPress公式ページ:  
 [https://ja.wordpress.org/plugins/consultation-hours/](https://ja.wordpress.org/plugins/consultation-hours/)
 
