@@ -44,3 +44,8 @@ WordPress公式ページ:
 
 This plugin is licensed under the GNU General Public License v2.0 or later.  
 See [LICENSE](./LICENSE) for details.
+
+## 👤 Author
+
+Mizuki Nozawa  
+[https://aries67.com/](https://aries67.com/)
